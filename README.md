@@ -1,6 +1,6 @@
 # Bookmarker
 
-A simple bookmarker application using Electron.
+A simple bookmarker application using Electron. (In class lesson.)
 
 ## Getting Set Up and Acclimated
 
